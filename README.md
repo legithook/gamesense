@@ -1,4 +1,4 @@
-# Gamesense injector
+# Gamesense cracked
 # Tutorial
 ### 1
 ### 2
