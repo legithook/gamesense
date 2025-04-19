@@ -1,4 +1,4 @@
-# gamesense crack
+# Easy gamesense injector
 
 
 
