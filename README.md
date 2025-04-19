@@ -1,4 +1,4 @@
-# Gamesense cracked
+# Gamesense Loader
 # Tutorial
 ### 1. Open Steam.exe As Admin!
 ### 2. Run loader.bat
