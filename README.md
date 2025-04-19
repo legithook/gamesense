@@ -1,9 +1,9 @@
 # Gamesense cracked
 # Tutorial
-### 1. Run Steam.exe As Admin (Close in TM if open)
-### 2. Run 1.bat
-### 3. Run 2.exe and simply inject into csgo.exe (should be auto configured)
-### 4. Close injector + Close empty cmd
+### 1. Open Steam.exe As Admin!
+### 2. Run loader.bat
+### 3. Open csgo.exe
+### 4. Inject!
 
 # Sources:
 ### https://github.com/TheCruZ/Simple-Manual-Map-Injector
