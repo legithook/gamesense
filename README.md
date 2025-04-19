@@ -1,4 +1,4 @@
-# Easy gamesense injector
+# Gamesense injector
 
 
 
